@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "919391878723",
+    "firebase_url": "https://still-chassis-382314-default-rtdb.firebaseio.com",
+    "project_id": "still-chassis-382314",
+    "storage_bucket": "still-chassis-382314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919391878723:android:a93b45402ff7143d8b1ef6",
+        "android_client_info": {
+          "package_name": "com.dropsride.dropsride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919391878723-go95copkd2tigivhjgg9tchuhkis2rlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWPJ7lqS00OLShpTJmT8lnRoOtrlo_kVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919391878723-go95copkd2tigivhjgg9tchuhkis2rlc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919391878723-01bcjk353n7gofpv4u7g9mvhqb7om4c0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dropsride"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
